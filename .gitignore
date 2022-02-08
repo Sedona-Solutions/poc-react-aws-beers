@@ -51,3 +51,6 @@ public/build
 
 # Configuration
 /.env
+
+# Local .terraform directories
+/terraform/.terraform/*
